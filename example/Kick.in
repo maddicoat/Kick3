@@ -1,0 +1,13 @@
+NumGeom=10
+ncpus=4
+mem (give units)
+mem=2GB
+Time limit per job (whole hours only):
+walltime=10
+radius=3
+Charge=0
+multiplicity=1
+program=dftb
+queue=normal
+order=ABAB
+pbc=10,10,10
